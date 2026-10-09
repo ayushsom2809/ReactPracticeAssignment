@@ -5,7 +5,6 @@ function App() {
   return (
     <>
     <h1>Named and Default Export</h1>
-
     <Parent/>
     </>
   );
